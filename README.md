@@ -1,1 +1,1 @@
-# VR_ICU
+# VR-ICU
